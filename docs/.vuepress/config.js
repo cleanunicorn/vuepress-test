@@ -3,7 +3,7 @@ module.exports = {
     lang: 'en-US',
     title: 'Hello, VuePress!',
     description: 'This is my first VuePress site',
-    base: '/',
+    base: '/vuepress-test/',
 
     // theme and its config
     theme: '@vuepress/theme-default',
