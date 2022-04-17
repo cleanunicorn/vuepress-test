@@ -1,0 +1,1 @@
+const e={key:"v-3ac5ce46",path:"/projects.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1650190261e3,contributors:[{name:"Daniel Luca",email:"lucadanielcostin@gmail.com",commits:1}]},filePathRelative:"projects.md"};export{e as data};

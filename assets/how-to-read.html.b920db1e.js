@@ -1,0 +1,1 @@
+const t={key:"v-9f0298e8",path:"/how-to/how-to-read.html",title:"no way read?",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1650187931e3,contributors:[{name:"Daniel Luca",email:"lucadanielcostin@gmail.com",commits:1}]},filePathRelative:"how-to/how-to-read.md"};export{t as data};

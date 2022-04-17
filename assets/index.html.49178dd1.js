@@ -1,0 +1,1 @@
+const t={key:"v-a8cad604",path:"/how-to/",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1650187931e3,contributors:[{name:"Daniel Luca",email:"lucadanielcostin@gmail.com",commits:1}]},filePathRelative:"how-to/README.md"};export{t as data};

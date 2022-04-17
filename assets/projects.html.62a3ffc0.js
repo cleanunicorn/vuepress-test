@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as n,F as o,a as l}from"./app.e4092c29.js";const c={},s=l("p",null,"Some of my projects",-1),r=l("ul",null,[l("li",null,"1"),l("li",null,"2"),l("li",null,"3"),l("li",null,"4"),l("li",null,"5")],-1);function _(a,u){return t(),n(o,null,[s,r],64)}var m=e(c,[["render",_],["__file","projects.html.vue"]]);export{m as default};

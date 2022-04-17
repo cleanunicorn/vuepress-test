@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./app.e4092c29.js";const r={};function c(n,_){return t(),a("p",null,"Ce marfa e tastatura")}var l=e(r,[["render",c],["__file","index.html.vue"]]);export{l as default};
